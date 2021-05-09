@@ -14,8 +14,9 @@ https://0138876.github.io/hajar-gitscrum-port/
 CSS framework Bootstrap v3.3.7 (http://getbootstrap.com)
 
 ## Credits
-credits to the contributers
-My adjustmets:
+**credits to the contributers**
+
+My adjustments:
 - live demo
 - readme page setup
 - css adjustment on the headers
