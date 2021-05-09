@@ -3,7 +3,7 @@
 <p align="center">
 One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
   <a href="https://0138876.github.io/hajar-gitscrum-port/">
-    <img alt="portfolio" title="portfolio" src="assets/img/template.jpg">
+    <img alt="portfolio" src=url("/assets/img/template.jpg")>
   </a>
 </p>
 
