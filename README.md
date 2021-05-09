@@ -15,7 +15,7 @@ https://0138876.github.io/hajar-gitscrum-port/
 ## Contributers
 
 <a href = "https://github.com/0138876">
-  <img src = "https://avatars.githubusercontent.com/u/71692561?s=60&v=4>
+  <img src = "https://avatars.githubusercontent.com/u/71692561?s=60&v=4/>
 </a>
 <a href = "https://github.com/bkuppeveld-edu">
   <img src = "https://avatars.githubusercontent.com/u/74912072?v=4/>
