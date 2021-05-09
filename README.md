@@ -7,10 +7,18 @@ One page template, a great choice for creating a personal portfolio website, inc
   </a>
 </p>
 
-## Table of Contents
-- []
 ## Live Demo
 https://0138876.github.io/hajar-gitscrum-port/
+
+## Framework
+CSS framework Bootstrap v3.3.7 (http://getbootstrap.com)
+
+## Credits
+credits to the contributers
+My adjustmets:
+- live demo
+- readme page setup
+- css adjustment on the headers
 
 ## Contributers
 
